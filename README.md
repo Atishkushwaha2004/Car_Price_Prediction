@@ -167,5 +167,4 @@ Click the link below to use the application:
 ## 📸 Screenshots
 ### Home Page
 
-![App Screenshot](screenshot.png)<img width="1657" height="775" alt="Output png (3)" src="https://github.com/user-attachments/assets/7084118f-553b-42e2-833f-3f76522247c9" />
-
+![App Screenshot](screenshot.png)<img width="1903" height="916" alt="Screenshot 2026-03-28 000938" src="https://github.com/user-attachments/assets/177d12ac-7792-4282-8943-1129cce16470" />
