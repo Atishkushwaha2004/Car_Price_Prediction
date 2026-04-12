@@ -8,7 +8,7 @@ The model is trained using **Lasso Regression** and deployed as an interactive w
 ## 📌 Project Overview
 
 This project uses Machine Learning to estimate the price of a car using various features such as:
-
+ 
 * Symboling
 * Wheelbase
 * Car Length
