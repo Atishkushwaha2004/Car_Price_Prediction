@@ -2,7 +2,7 @@
 
 A Machine Learning web application built using **Streamlit** that predicts the estimated price of a car based on its specifications.
 The model is trained using **Lasso Regression** and deployed as an interactive web interface.
-
+ 
 ---
 
 ## 📌 Project Overview
